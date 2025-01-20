@@ -3,13 +3,13 @@
 
 [in/hiền-tô](https://www.linkedin.com/in/hi%E1%BB%81n-t%C3%B4/) - tohaohien@gmail.com - 0798893797
 
-## Technical Skills
+# Technical Skills
 - SQL: SQL Sever, Google Bigquery 
 - PowerBI: DAX, Power Query, Data Modeling
 - Python: Pandas, Numpy, Matplotlib, Seaborn
 
 
-## Projects for Sharing
+# Projects for Sharing
 
 | Project Name                                   | Description                                                                                                                                          | Tool               |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
