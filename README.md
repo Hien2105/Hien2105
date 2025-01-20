@@ -8,4 +8,4 @@
 - PowerBI: DAX, Power Query, Data Modeling
 - Python: Pandas, Numpy, Matplotlib, Seaborn
 
->https://github.com/Hien2105/Ecommerce-Dataset-Exploration-SQL-in-BigQuery-
+
