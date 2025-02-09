@@ -4,6 +4,7 @@
 [in/hiền-tô](https://www.linkedin.com/in/hi%E1%BB%81n-t%C3%B4/) - tohaohien@gmail.com - 0798893797
 
 # Technical Skills
+- Excel: Pivot table, vlookup/xlookup, Analytical & Computational Formulas
 - SQL: SQL Sever, Google Bigquery 
 - PowerBI: DAX, Power Query, Data Modeling
 - Python: Pandas, Numpy, Matplotlib, Seaborn
